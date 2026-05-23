@@ -1,0 +1,44 @@
+aid: gaming-and-leisure-properties
+url: https://raw.githubusercontent.com/api-evangelist/gaming-and-leisure-properties/refs/heads/main/apis.yml
+name: Gaming and Leisure Properties
+tags:
+  - Casinos
+  - Gaming
+  - Hospitality
+  - Real Estate
+  - REIT
+  - Triple-Net Lease
+type: Index
+image: https://kinlane-productions2.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+access: 3rd-Party
+kind: company
+created: '2026-05-23'
+modified: '2026-05-23'
+description: >-
+  Gaming and Leisure Properties, Inc. (NASDAQ: GLPI) is "the nation's first
+  real estate investment trust focused on acquiring real property assets
+  leased to gaming operators." Headquartered in Wyomissing, Pennsylvania,
+  GLPI's portfolio comprises 71 premier gaming and related facilities
+  across 21 states, totaling more than 29.3 million square feet and over
+  15,100 hotel rooms, leased on a triple-net basis to operators including
+  Penn Entertainment, Caesars Entertainment, Bally's Corporation, Boyd
+  Gaming, the Cordish Companies, and Hard Rock. No public developer API,
+  data feed, or GitHub organization has been identified; GLPI engages
+  investors, tenants, and partners through corporate and investor
+  relations channels only.
+apis: []
+common:
+  - type: Website
+    url: https://www.glpropinc.com/
+  - type: AboutUs
+    url: https://www.glpropinc.com/about-us/
+  - type: Portfolio
+    url: https://www.glpropinc.com/portfolio/
+  - type: Investors
+    url: https://investors.glpropinc.com/
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/gaming-and-leisure-properties-inc-
+maintainers:
+  - FN: API Evangelist
+    url: https://apievangelist.com
+specificationVersion: '0.19'
