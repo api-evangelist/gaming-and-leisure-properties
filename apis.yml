@@ -28,6 +28,8 @@ description: >-
   relations channels only.
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/gaming-and-leisure-properties-domain-security.yml
   - type: Website
     url: https://www.glpropinc.com/
   - type: AboutUs
