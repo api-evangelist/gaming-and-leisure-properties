@@ -5,7 +5,7 @@ tags:
   - Casinos
   - Gaming
   - Hospitality
-  - Real-Estate
+  - Real Estate
   - REIT
   - Triple-Net Lease
 tags_raw:
@@ -15,6 +15,7 @@ tags_raw:
   - Real Estate
   - REIT
   - Triple-Net Lease
+  - Real-Estate
 type: Index
 deliveryModel:
   model: unknown
